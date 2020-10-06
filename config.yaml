@@ -35,3 +35,10 @@ params:                                       # Theme specific parameters
       recentCount: 7
     - title: Contact Us
       contact: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true    # allow use of html in markdown. Discouraged though.
+  highlight:
+    lineNos: false   
+enableEmoji: true
