@@ -10,7 +10,7 @@ We provide :smile: to hundreds of happy customers.
 
 ## Manufacturing
 
-At Acme Corporation, we take pride in what we create. Our manufacturing process goes through __3 different__ stages of fine workmanship to give you the best possible shapes.<img src="./image/draw.jpg" style="float: right; padding: 0 0 0 20px">
+At Acme Corporation, we take pride in what we create. Our manufacturing process goes through __3 different__ stages of fine workmanship to give you the best possible shapes.<img src="../image/draw.jpg" style="float: right; padding: 0 0 0 20px">
 
 
 1) __Drawing__ - Our shapes are drawn with precision to the 1/100 of a millimeter.
