@@ -1,4 +1,4 @@
-baseURL: http://localhost:1313/                      # Hosting location.
+# baseURL: http://localhost:1313/                      # Hosting location.
 languageCode: en-us                           # Locale
 title: Acme Corporation                       # Name of the website
 theme: Eclectic                               # Name of the theme
