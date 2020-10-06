@@ -35,16 +35,14 @@ We make over ___200 shapes___, the most popular of these include:
 
 ## Team
 
-
 Alex
 : Hippy Web Developer
 : Technophile
 
 Bob
-: Classic SysAdmin 
+: Classic SysAdmin
 : Conservative
 
 Gabby
-: Cool Content Master 
+: Cool Content Master
 : Cautious
-
