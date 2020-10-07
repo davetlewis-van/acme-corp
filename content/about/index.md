@@ -1,5 +1,5 @@
 ---
-title: "About US"
+title: "About Us"
 ---
 
 Acme Corporation&trade; is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thickness and line styles.
@@ -10,7 +10,7 @@ We provide :smile: to hundreds of happy customers.
 
 ## Manufacturing
 
-At Acme Corporation, we take pride in what we create. Our manufacturing process goes through __3 different__ stages of fine workmanship to give you the best possible shapes.<img src="../image/draw.jpg" style="float: right; padding: 0 0 0 20px">
+At Acme Corporation, we take pride in what we create. Our manufacturing process goes through __3 different__ stages of fine workmanship to give you the best possible shapes.<img src="./draw.jpg" style="float: right; padding: 0 0 0 20px">
 
 
 1) __Drawing__ - Our shapes are drawn with precision to the 1/100 of a millimeter.
