@@ -47,7 +47,7 @@ Gabby
 : Cool Content Master
 : Cautious
 
-{{<!-- youtube id="nLAVanlu5js" -->}}
+{{< youtube id="nLAVanlu5js" >}}
 
 
 {{< highlight js "linenos=table,hl_lines=3-4,linenostart=1080" >}}
